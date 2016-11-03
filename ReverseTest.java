@@ -1,4 +1,7 @@
-//leetcode 344
+/**
+ * leetcode 344. ReverseTest
+ * Created by fusama on 16/11/2.
+ */
 public class ReverseTest {
 
 	public static void main(String[] args) {
