@@ -1,12 +1,12 @@
 /**
- * leetcode 344. ReverseTest
+ * leetcode 344. Reverse
  * Created by fusama on 16/11/2.
  */
-public class ReverseTest {
+public class Reverse {
 
 	public static void main(String[] args) {
-		ReverseTest reverset=new ReverseTest();
-		System.out.print(reverset.reverseString("String"));
+		Reverse reverse=new Reverse();
+		System.out.print(reverse.reverseString("String"));
 	}
 	
 	    public String reverseString(String s) {
